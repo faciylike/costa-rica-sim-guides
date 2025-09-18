@@ -68,3 +68,10 @@ layout: default
 *   **充值渠道**：超市、药店（Farmacia）、小商店随处可见充值卡（Recarga）。运营商APP绑定信用卡充值更方便。套餐快到期前会收到短信提醒，别忽略它！
 
 ## 七、 漫游与区域套餐：邻国游
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Costa Rica eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/costa-rica-data-plans)
